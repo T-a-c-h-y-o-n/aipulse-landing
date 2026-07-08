@@ -1,0 +1,59 @@
+# AI Pulse — Model Radar
+
+> Track AI models from 170+ companies in one clean, zero-build dashboard — and update it yourself, any time, to catch every new model as it drops. No server, no install — just open and go.
+
+## What is AI Pulse?
+
+AI Pulse — Model Radar is a single-file HTML dashboard that brings together everything you need to compare AI models in one place: parameters, context window, pricing, benchmarks, licensing, and community traction — without digging through a dozen leaderboards and provider docs.
+
+## Key Features
+
+- 600+ models from 170+ companies
+- Side-by-side model comparison (export as PDF, PNG, CSV)
+- Provider Radar — see where a model is free across 10+ APIs
+- Cost analysis — input/output pricing per 1K and 1M tokens
+- 10 interactive charts — trends, categories, benchmarks
+- Instant search and smart filters
+- Dark/light themes, grid views, responsive layout
+- Self-updating Python pipeline (no extra packages)
+
+## Who is it for?
+
+- AI researchers and engineers
+- Developers deciding which model to use
+- Startup founders (cost analysis feature)
+- Students and academics
+- Content creators and technical writers covering AI news
+- Product managers evaluating which model to integrate
+
+## How it works
+
+1. Download the HTML file, seed data, and Python tools
+2. Open the HTML file in your browser — 600+ models are already loaded
+3. Run the update script to pull in new models as they release
+
+## Pricing
+
+- Personal Edition: $29 (one-time, single user, lifetime access)
+- Team Edition: $99 (one-time, multiple users)
+
+## Links
+
+- Landing Page: https://aipulse-landing.vercel.app/
+- Live Demo: https://aipulses.vercel.app/
+- Get Full Version: https://tachyon80.gumroad.com/l/aipulse-personal
+- Team Edition: https://tachyon80.gumroad.com/l/aipulse-team
+- GitHub: https://github.com/T-a-c-h-y-o-n/aipulse
+- Product Hunt: https://www.producthunt.com/products/ai-pulse-model-radar
+- Contact: Tachyonic@gmail.com
+
+## Technical Details
+
+- Single HTML file, zero backend, no install required
+- Python 3.8+ for update pipeline (no extra packages)
+- Data sources: HuggingFace, OpenRouter
+- License: Commercial (Personal/Team editions)
+
+---
+
+Last updated: 2026-07-08
