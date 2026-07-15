@@ -44,6 +44,21 @@ Allow: /
 User-agent: Cohere-ai
 Allow: /
 
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# LLMs
+Llms-txt: https://aipulse-landing.vercel.app/llms.txt
+
 # Sitemap
 Sitemap: https://aipulse-landing.vercel.app/sitemap.xml
 
